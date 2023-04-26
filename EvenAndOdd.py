@@ -7,3 +7,4 @@ with open("numbers.txt") as input_file, open("even.txt", "a") as output_even, op
     for line in input_file:
         print(line.strip())
     # if even 
+    # if odd 
