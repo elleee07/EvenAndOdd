@@ -1,0 +1,40 @@
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+<_io.TextIOWrapper name='numbers.txt' mode='r' encoding='cp1252'>
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
